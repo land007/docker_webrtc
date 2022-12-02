@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>概览-hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="概览-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="overview" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+            <rect id="矩形" x="0" y="0" width="6" height="6"></rect>
+            <path d="M4,10 L4,12 L2,12 L2,10 L4,10 Z M6,8 L0,8 L0,14 L6,14 L6,8 Z" id="形状" fill-rule="nonzero"></path>
+            <path d="M12,2 L12,4 L10,4 L10,2 L12,2 Z M14,0 L8,0 L8,6 L14,6 L14,0 Z" id="形状" fill-rule="nonzero"></path>
+            <rect id="矩形" x="8" y="8" width="6" height="6"></rect>
+        </g>
+    </g>
+</svg>

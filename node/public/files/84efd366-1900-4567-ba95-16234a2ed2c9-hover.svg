@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>monitor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="monitor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M8.0000254,6 L11.1351194,0.570017152 L12.0014802,1.07130585 C14.4555963,2.49129246 16,5.11164393 16,8 C16,12.418278 12.418278,16 8,16 C3.581722,16 0,12.418278 0,8 C0,5.11164393 1.54440371,2.49129246 3.99851982,1.07130585 L4.86407109,0.570485529 L5.86571173,2.30158808 L5.00016046,2.8024084 C3.15778979,3.86843037 2,5.83282358 2,8 C2,11.3137085 4.6862915,14 8,14 C11.3137085,14 14,11.3137085 14,8 C14,6.17724969 13.180978,4.49794846 11.8244816,3.37595386 L9.73225572,6.99968909 C9.90253707,7.29393271 10,7.63558451 10,8 C10,9.1045695 9.1045695,10 8,10 C6.8954305,10 6,9.1045695 6,8 C6,6.8954305 6.8954305,6 8,6 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

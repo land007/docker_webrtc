@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>web</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M3,13 L13,13 L13,5 L3,5 L3,13 Z M4,2 C4.553,2 5,2.448 5,3 C5,3.552 4.553,4 4,4 C3.447,4 3,3.552 3,3 C3,2.448 3.447,2 4,2 L4,2 Z M7,2 C7.553,2 8,2.448 8,3 C8,3.552 7.553,4 7,4 C6.447,4 6,3.552 6,3 C6,2.448 6.447,2 7,2 L7,2 Z M1,15 L15,15 L15,1 L1,1 L1,15 Z" id="Fill-1" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

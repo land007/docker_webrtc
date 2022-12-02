@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>画板</title>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="拉流转推-16px" fill-rule="nonzero">
+            <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M6,8.24963545 L6.00006496,11.0006354 L12.9997178,10.9995041 L13,9 L15,9 L15,13 L14.003065,13 L6.00006496,13.0006354 L6,15.7496355 L1,11.9996354 L6,8.24963545 Z M2.99571778,7.00213959 L0.995717775,7.00213959 L0.995717775,3.00213959 L2.99571778,3.00213959 L9.99565281,3.00150414 L9.99571777,0.252504138 L14.9957178,4.00250414 L9.99571777,7.75250414 L9.99565281,5.00150414 L2.99571778,5.00150414 L2.99571778,7.00213959 Z" id="形状结合" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

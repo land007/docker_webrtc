@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>日志分析</title>
+    <desc>Created with Sketch.</desc>
+    <g id="日志分析" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="统计分析-hover-copy" transform="translate(8.000000, 8.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M6.4,0.8 C7.4,1.5 8,2.7 8,4 C8,6.2 6.2,8 4,8 C1.8,8 0,6.2 0,4 C0,2.5 0.8,1.2 2,0.5 L3,2.2 C2.4,2.5 2,3.2 2,3.9 C2,5 2.9,5.9 4,5.9 C5.1,5.9 6,5 6,3.9 C6,3.3 5.8,2.8 5.4,2.5 L4.4,4.2 L3.5,3.7 L5.5,0.3 C5.9,0.4 6.1,0.6 6.4,0.8 Z" id="事件监控-path"></path>
+        </g>
+        <path d="M15.001,8.00038514 C14.4193688,7.56327822 13.7393013,7.25008835 13,7.10001812 L13,6 L3,6 L3,13 L7.10001812,13 C7.25000236,13.7388776 7.56291933,14.4185894 7.99963381,15 L1,15 L1,2.001 L3,2.001 L3,0 L5,0 L5,2.001 L11,2.001 L11,0 L13,0 L13,2.001 L15.001,2.001 L15.001,8.00038514 Z" id="合并形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
